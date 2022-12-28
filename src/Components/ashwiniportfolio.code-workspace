@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../tailwind-css/ninjafood"
+		},
+		{
+			"path": "../../../portfolio-react"
+		}
+	],
+	"settings": {}
+}
